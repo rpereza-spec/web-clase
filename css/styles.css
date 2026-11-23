@@ -1,0 +1,12 @@
+web-classe/
+├── css/
+│ └── styles.css
+└── index.html
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,
+initial-scale=1.0">
+<title>Formació online</title>
+<link rel="stylesheet" href="css/styles.css">
+</head>
+h1 span {font-size: 0.6em;color: #1750a1;}
